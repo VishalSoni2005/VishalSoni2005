@@ -19,16 +19,14 @@
 
 ---
 
-
 ### 🚀 **Let's Build Something Amazing!**  
 > _"Code is like humor. When you have to explain it, it’s bad."_ 😃  
 
 ---
 
-
 ## 🔗 **Connect With Me**  
 <p align="left">
-  <a href="https://linkedin.com/in/vishal-soni-07-" target="_blank">
+  <a href="https://linkedin.com/in/vishal-soni-07-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/vsoni0882" target="_blank">
@@ -45,12 +43,11 @@
 
 ### 🚀 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cpp,python,java,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cpp,python,java,graphql,redux,zustand,jsonwebtoken,zod" />
 </p>
-
 ### 🧬 **Tools & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,webpack,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,webpack,vscode,prisma,nginx" />
 </p>
 
 ---
