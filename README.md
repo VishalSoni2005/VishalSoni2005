@@ -1,4 +1,7 @@
+
+
 ### 🚀 **Vishal Soni** | Full-Stack Developer  
+
 
 🔹 Passionate **Full-Stack Web Developer** with expertise in **MERN, Next.js, TypeScript, and scalable web applications**.  
 🔹 Currently diving into **Blockchain Technology** and **AI-driven applications**.  
@@ -45,6 +48,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cpp,python,java,graphql,redux,zustand,jsonwebtoken,zod" />
 </p>
+
 ### 🧬 **Tools & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,webpack,vscode,prisma,nginx" />
