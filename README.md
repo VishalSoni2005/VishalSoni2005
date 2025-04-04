@@ -19,6 +19,13 @@
 
 ---
 
+
+### 🚀 **Let's Build Something Amazing!**  
+> _"Code is like humor. When you have to explain it, it’s bad."_ 😃  
+
+---
+
+
 ## 🔗 **Connect With Me**  
 <p align="left">
   <a href="https://linkedin.com/in/vishal-soni-07-" target="_blank">
@@ -65,12 +72,3 @@
 
 ---
 
-## 🎵 **Vibe With Me**  
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=VishalSoni2005&unique=true)
-
----
-
-### 🚀 **Let's Build Something Amazing!**  
-> _"Code is like humor. When you have to explain it, it’s bad."_ 😃  
-
----
