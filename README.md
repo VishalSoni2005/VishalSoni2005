@@ -172,6 +172,20 @@
 
 <hr/>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>"Small daily improvements over time lead to stunning results."</i></p>
+</div>
+
+<hr/>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
