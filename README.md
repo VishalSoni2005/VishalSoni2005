@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
+   <p><i>Code is like humor. When you have to explain it, it's bad ☺️</i></p>
 </div>
 
 <br/>
@@ -33,7 +33,6 @@
         <li>💬 Ask me about <b>React, Next.js, TypeScript, and Full-Stack Development</b></li>
         <li>📫 Reach me at: <a href="mailto:vsoni0882@gmail.com"><b>vsoni0882@gmail.com</b></a></li>
       </ul>
-      <p><i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</p>
     </td>
     <td valign="top" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
