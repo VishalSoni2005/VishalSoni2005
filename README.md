@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Vishal%20Soni&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=200&section=header&text=Vishal%20Soni&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -197,7 +197,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=120&section=footer" width="100%" alt="Footer" />
 </div>
 
 <!-- GitHub Actions for dynamic content -->
