@@ -121,16 +121,17 @@
 
 <hr/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/VishalSoni2005/ERP_101">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalSoni2005&repo=ERP_101&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="ERP_101" />
-  </a>
-  <a href="https://github.com/VishalSoni2005/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalSoni2005&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="Portfolio" />
-  </a>
-</div>
+- [**AI Powered Blog Website**](https://github.com/VishalSoni2005/ai-powered-blog-website) – A full-stack AI-powered blog generator where users can input a topic and get complete blog content using DeepSeek API.
+  
+- [**Together**](https://github.com/VishalSoni2005/Together) – A MERN-based social app with real-time messaging using Zustand, focused on community interaction and end-to-end encryption.
+
+- [**AI-Powered Fitness Prediction**](https://github.com/VishalSoni2005/fitness-ai) – A smart fitness tracker that uses Google Gemini to provide health insights and fitness recommendations based on user input.
+
+- [**Portfolio Website**](https://github.com/VishalSoni2005/Portfolio) – A personal portfolio built with React and Tailwind CSS, showcasing skills, projects, and experience in a clean and responsive layout.
+
+
 
 <div align="center">
   <p><i>"Simplicity is the soul of efficiency."</i> — Austin Freeman</p>
@@ -143,27 +144,22 @@
 
 <hr/>
 
-<h2 align="center">⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
 <!-- This section will be automatically updated by a GitHub Action -->
 <!--END_SECTION:activity-->
 
-<div align="center">
-  <p><i>"First, solve the problem. Then, write the code."</i> — John Johnson</p>
-</div>
-
 <hr/>
 
 <h2 align="center">🏆 Coding Journey</h2>
 
-<div align="center">
-  <img src="https://www.codewars.com/users/VishalSoni2005/badges/large" alt="Codewars" />
-</div>
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=_vishal_2005&theme=dark" alt="LeetCode Stats" />
-</div>
+<a href="https://www.leetcode.com/_vishal_2005" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/_vishal_2005?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+
+</a>
+
 
 <div align="center">
   <p><i>"Programming isn't about what you know; it's about what you can figure out."</i> — Chris Pine</p>
