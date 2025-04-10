@@ -25,9 +25,9 @@
     <td valign="top" width="60%">
       <h2>💫 About Me</h2>
       <ul>
-        <li>🔭 Currently working on <a href="https://github.com/VishalSoni2005/ERP_101"><b>ERP Login System</b></a></li>
-        <li>🌱 Learning <b>Blockchain Technology & AI Integration</b></li>
-        <li>👨‍💻 Exploring <b>Web3 and Decentralized Applications</b></li>
+        <li>🔭 Currently working on <a href="https://github.com/VishalSoni2005/ai-powered-blog-website"><b>AI Blog Website</b></a></li>
+        <li>🌱 Learning <b>Generative AI</b></li>
+        <li>👨‍💻 Exploring <b>Machine And Deep Learning</b></li>
         <li>💼 Building scalable web applications with <b>MERN Stack & Next.js</b></li>
         <li>📂 Check out my projects: <a href="https://github.com/VishalSoni2005/Portfolio"><b>Portfolio Repository</b></a></li>
         <li>💬 Ask me about <b>React, Next.js, TypeScript, and Full-Stack Development</b></li>
@@ -124,14 +124,11 @@
 ## 🚀 Featured Projects
 
 - [**AI Powered Blog Website**](https://github.com/VishalSoni2005/ai-powered-blog-website) – A full-stack AI-powered blog generator where users can input a topic and get complete blog content using DeepSeek API.
-  
 - [**Together**](https://github.com/VishalSoni2005/Together) – A MERN-based social app with real-time messaging using Zustand, focused on community interaction and end-to-end encryption.
 
 - [**AI-Powered Fitness Prediction**](https://github.com/VishalSoni2005/fitness-ai) – A smart fitness tracker that uses Google Gemini to provide health insights and fitness recommendations based on user input.
 
 - [**Portfolio Website**](https://github.com/VishalSoni2005/Portfolio) – A personal portfolio built with React and Tailwind CSS, showcasing skills, projects, and experience in a clean and responsive layout.
-
-
 
 <div align="center">
   <p><i>"Simplicity is the soul of efficiency."</i> — Austin Freeman</p>
@@ -144,15 +141,12 @@
 
 <hr/>
 
-
 <!--START_SECTION:activity-->
 <!-- This section will be automatically updated by a GitHub Action -->
 <!--END_SECTION:activity-->
 
-<hr/>
 
 <h2 align="center">🏆 Coding Journey</h2>
-
 
 <div align="center">
 <a href="https://www.leetcode.com/_vishal_2005" target="_blank">
@@ -160,20 +154,56 @@
 
 </a>
 
-
 <div align="center">
   <p><i>"Programming isn't about what you know; it's about what you can figure out."</i> — Chris Pine</p>
 </div>
 
 <hr/>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-snake-dark.svg?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-snake.svg?raw=true" />
+  <img alt="github contribution grid snake animation" src="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-snake.svg?raw=true" />
+</picture>
+
 
 <br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <p><i>"Small daily improvements over time lead to stunning results."</i></p>
@@ -198,4 +228,3 @@
 <!-- GitHub Actions for dynamic content -->
 <!-- 1. For the snake animation: Create .github/workflows/snake.yml -->
 <!-- 2. For recent activity: Create .github/workflows/update-readme.yml -->
-
