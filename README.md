@@ -48,15 +48,11 @@
   <a href="https://linkedin.com/in/vishal-soni-07-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/vsoni0882" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
+
   <a href="https://www.leetcode.com/_vishal_2005" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+
 </div>
 
 <div align="center">
@@ -160,22 +156,6 @@
 
 <hr/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <picture>
@@ -183,27 +163,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-snake.svg?raw=true" />
   <img alt="github contribution grid snake animation" src="https://github.com/VishalSoni2005/VishalSoni2005/blob/output/github-snake.svg?raw=true" />
 </picture>
-
-
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
   <p><i>"Small daily improvements over time lead to stunning results."</i></p>
