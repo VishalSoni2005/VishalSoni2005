@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Blockchain+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Machine+Learning+%26+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -130,11 +130,6 @@
 
 <hr/>
 
-<h2 align="center">📈 Activity Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalSoni2005&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-
-<hr/>
-
 <!--START_SECTION:activity-->
 <!-- This section will be automatically updated by a GitHub Action -->
 <!--END_SECTION:activity-->
@@ -163,9 +158,6 @@
 </picture>
 <br/>
 
-<div align="center">
-  <p><i>"Small daily improvements over time lead to stunning results."</i></p>
-</div>
 
 <hr/>
 
