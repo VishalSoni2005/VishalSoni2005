@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=200&section=header&text=Vishal%20Soni&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 </div>
 
@@ -12,7 +12,16 @@
    <p><i>Code is like humor. When you have to explain it, it's bad ☺️</i></p>
 </div>
 
-<br/>
+<br/> -->
+
+[![an image of banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">Hi 👋, I'm Vishal Soni</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">A passionate Full Stack developer and programmer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalSoni2005&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal" /> </p>
+
+
 
 
 
