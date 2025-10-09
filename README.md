@@ -13,27 +13,18 @@
 ---
 
 ## 💫 About Me
-
-<table align="center">
-<tr>
-<td valign="top" width="60%">
-<ul>
-  <li>🔭 Currently working on <a href="https://github.com/VishalSoni2005/ai-powered-blog-website"><b>AI Blog Website</b></a></li>
-  <li>🌱 Learning <b>Generative AI</b></li>
-  <li>👨‍💻 Exploring <b>Machine and Deep Learning</b></li>
-  <li>💼 Building scalable web applications with <b>MERN Stack & Next.js</b></li>
-  <li>📂 Check out my projects: <a href="https://github.com/VishalSoni2005/Portfolio"><b>Portfolio Repository</b></a></li>
-  <li>💬 Ask me about <b>React, Next.js, TypeScript, and Full-Stack Development</b></li>
-  <li>📫 Reach me at: <a href="mailto:vsoni0882@gmail.com"><b>vsoni0882@gmail.com</b></a></li>
-</ul>
-</td>
-<td valign="top" width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
-</td>
-</tr>
-</table>
-
----
+<table align="center"> 
+  <tr>
+    <td valign="top" width="60%"> 
+      <ul> 
+        <li>🚀 Currently working as a <b>Full Stack Developer Intern</b> at <b>Attento Technologies</b></li> 
+        <li>🔧 Building <b>low-latency and scalable backend systems</b> using <b>NestJS</b> and <b>MongoDB</b></li> 
+        <li>🌱 Deepening my knowledge in <b>Generative AI</b> and exploring its integration with modern web applications</li>
+        <li>💼 Experienced in developing production-grade applications with <b>Nest.js</b> & <b>Next.js</b></li> 
+        <li>🤖 Passionate about creating intelligent systems combining <b>AI + Scalable Backend Architecture</b></li>
+        <li>📂 Check out my featured projects: <a href="https://github.com/VishalSoni2005/Portfolio"><b>Portfolio Repository</b></a></li> 
+        <li>💬 Ask me about <b>NestJS, Next.js, TypeScript, and backend optimization for performance</b></li> 
+        <li>📫 Reach me at: <a href="mailto:vsoni0882@gmail.com"><b>vsoni0882@gmail.com</b></a></li> </ul> </td> <td valign="top" width="40%"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" /> </td> </tr> </table>
 
 ## 🌐 Connect With Me
 
@@ -48,6 +39,7 @@
 
 <p align="center"><i>"The strength of JavaScript is that you can do anything. The weakness is that you will."</i> — Reg Braithwaite</p>
 
+<!--
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -90,7 +82,6 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -114,6 +105,8 @@
 
 <p align="center"><i>"Simplicity is the soul of efficiency."</i> — Austin Freeman</p>
 
+-->
+
 ---
 
 ## 🏆 Coding Journey
@@ -124,9 +117,10 @@
   </a>
 </p>
 
-<p align="center"><i>"Programming isn't about what you know; it's about what you can figure out."</i> — Chris Pine</p>
+<p align="center">
+  <i>“Programming isn't about what you know; it's about what you can figure out.” — Chris Pine</i>
+</p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -139,3 +133,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <b>⚡ Building the future of AI-driven scalable applications, one commit at a time.</b>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750708-2478dcd2-4d47-4a7b-a47e-f5e2c45a3f8b.gif" width="250px" />
+</p>
