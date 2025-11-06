@@ -17,14 +17,14 @@
   <tr>
     <td valign="top" width="60%"> 
       <ul> 
-        <li>🚀 Currently working as a <b>Full Stack Developer Intern</b> at <b>Attento Technologies</b></li> 
-        <li>🔧 Building <b>low-latency and scalable backend systems</b> using <b>NestJS</b> and <b>MongoDB</b></li> 
-        <li>🌱 Deepening my knowledge in <b>Generative AI</b> and exploring its integration with modern web applications</li>
-        <li>💼 Experienced in developing production-grade applications with <b>Nest.js</b> & <b>Next.js</b></li> 
-        <li>🤖 Passionate about creating intelligent systems combining <b>AI + Scalable Backend Architecture</b></li>
-        <li>📂 Check out my featured projects: <a href="https://github.com/VishalSoni2005/Portfolio"><b>Portfolio Repository</b></a></li> 
-        <li>💬 Ask me about <b>NestJS, Next.js, TypeScript, and backend optimization for performance</b></li> 
-        <li>📫 Reach me at: <a href="mailto:vsoni0882@gmail.com"><b>vsoni0882@gmail.com</b></a></li> </ul> </td> <td valign="top" width="40%"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" /> </td> </tr> </table>
+        <!-- <li>🚀 Currently working as a <b>Full Stack Developer Intern</b> at <b>Attento Technologies</b></li>  -->
+        <li> Building <b>low-latency and scalable backend systems</b> using <b>NestJS</b> and <b>MongoDB</b></li> 
+        <li> Deepening my knowledge in <b>Generative AI</b> and exploring its integration with modern web applications</li>
+        <li> Experienced in developing production-grade applications with <b>Nest.js</b> & <b>Next.js</b></li> 
+        <li> Passionate about creating intelligent systems combining <b>AI + Scalable Backend Architecture</b></li>
+        <li> Check out my featured projects: <a href="https://github.com/VishalSoni2005/Portfolio"><b>Portfolio Repository</b></a></li> 
+        <li> Ask me about <b>NestJS, Next.js, TypeScript, and backend optimization for performance</b></li> 
+        <li> Reach me at: <a href="mailto:vsoni0882@gmail.com"><b>vsoni0882@gmail.com</b></a></li> </ul> </td> <td valign="top" width="40%"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" /> </td> </tr> </table>
 
 ## 🌐 Connect With Me
 
