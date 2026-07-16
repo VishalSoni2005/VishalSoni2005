@@ -112,8 +112,8 @@
 ## 🏆 Coding Journey
 
 <p align="center">
-  <a href="https://www.leetcode.com/_vishal_2005" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/_vishal_2005?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+  <a href="https://www.leetcode.com/vsoni_07" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/vsoni_07?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
